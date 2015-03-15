@@ -1,0 +1,1 @@
+Maggz Mod pack installer source for INNO setup
