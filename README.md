@@ -1,1 +1,0 @@
-maggz-modpack-installer
